@@ -1,7 +1,3 @@
-```md
-# README
----
-
 ## 1. Valor Final da Variável `SOMA`
 
 ```c
